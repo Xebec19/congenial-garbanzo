@@ -1,0 +1,4 @@
+python-dotenv
+crewai==0.22.5
+crewai[tools]
+langchain-google-genai
