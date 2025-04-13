@@ -1,14 +1,14 @@
 # How to run this project
 
-# 1. Clone the repository
+## 1. Clone the repository
 
-# 2. Install the required packages
+## 2. Install the required packages
 
     ```sh
     pip install -r requirements.txt
     ```
 
-# 3. Run the app
+## 3. Run the app
 
     ```sh
     python agent.py
